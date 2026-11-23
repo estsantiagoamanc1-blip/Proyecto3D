@@ -1,0 +1,11 @@
+{
+  "name": "proyecto3d",
+  "version": "1.0.0",
+  "dependencies": [
+    "glfw3",
+    "glew",
+    "glm",
+    "tinygltf",
+    { "name": "imgui", "features": [ "glfw-binding", "opengl3-binding" ] }
+  ]
+}
